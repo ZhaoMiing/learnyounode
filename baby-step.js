@@ -1,4 +1,4 @@
-'use strict';
+;'use strict';
 
 let argvArr = process.argv,
 	sum = 0;

@@ -1,3 +1,5 @@
+'use strict';
+
 var http = require('http'),
 	bl = require('bl'),
 	URLS = process.argv.slice(2),
