@@ -1,0 +1,11 @@
+{
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "description": "嗯！學你鬧得！",
+  "main": "baby-step.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zhaoming.me@gmail.com",
+  "license": "ISC"
+}
